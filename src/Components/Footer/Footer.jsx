@@ -107,7 +107,7 @@ const Footer = () => {
         </div>
 
         <a
-          href="/Ruchi_resume.pdf"
+          href="/ruchi-portfolio/Ruchi_resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-4 w-max bg-blue-700 hover:bg-blue-900 transition-all text-white font-semibold px-6 py-3 rounded-lg shadow-lg hover:shadow-xl"

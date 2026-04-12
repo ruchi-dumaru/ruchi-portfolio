@@ -15,34 +15,34 @@ const Projects = () => {
         <ProjectsCard
           title="Note App"
           main="A note app with add, delete, and complete functionalities. Built with react & Tailwind CSS."
-          img="/portfolio/noteapp.png"
+          img="/ruchi-portfolio/noteapp.png"
           url="https://github.com/ruchi-dumaru/note-app"
         />
 
         <ProjectsCard
           title="Todo App"
           main="A simple  todo app with add, delete, and complete functionalities. Built with JS & Tailwind CSS."
-          img="/portfolio/todo.png"
+          img="/ruchi-portfolio/todo.png"
           url="https://github.com/ruchi-dumaru/Todo-App"
         />
 
         <ProjectsCard
           title="Amazon Clone"
           main="A full frontend clone of Amazon with product listing, cart functionality, and responsive design."
-          img="/portfolio/amazone.png"
+          img="/ruchi-portfolio/amazone.png"
         />
 
         <ProjectsCard
           title="Add Remove User App"
           main="A  web application built using HTML, CSS, and JavaScript that allows users to dynamically add and remove user."
-          img="/portfolio/add_remove_user.png"
+          img="/ruchi-portfolio/add_remove_user.png"
           url="https://github.com/ruchi-dumaru/Add-Remove-Users"
         />
 
         <ProjectsCard
           title="Digital Watch"
           main="Custom digital watch app with live time, stopwatch, and alarm functionality."
-          img="/portfolio/digital_clock.png"
+          img="/ruchi-portfolio/digital_clock.png"
           url="https://github.com/ruchi-dumaru/Digital-Clock"
         />
       </div>
