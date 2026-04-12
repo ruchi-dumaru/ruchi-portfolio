@@ -95,7 +95,7 @@ const Home = () => {
         >
           <img
             className="w-56 h-56 md:w-80 md:h-80 object-cover rounded-full border-4 border-cyan-400 shadow-2xl shadow-cyan-400/30"
-            src="/profile.jpg"
+            src="profile.jpg"
             alt="profile"
           />
 
