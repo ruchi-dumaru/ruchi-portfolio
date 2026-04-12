@@ -20,7 +20,7 @@ const About = () => {
           <div>
             <div className="flex justify-center items-center">
               <img
-                src="portimg.jpg"
+                src="/portfolio/portimg.jpg"
                 alt="img"
                 className="w-full max-w-lg h-[500px] object-cover rounded-xl"
               />
