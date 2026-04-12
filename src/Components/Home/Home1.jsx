@@ -8,10 +8,12 @@ import { motion } from "framer-motion";
 
 const Home = () => {
   return (
+  
     <div
-      id="Home"
-      className="relative min-h-screen flex flex-col md:flex-row items-center justify-center gap-12 px-6 md:px-20 pt-24 text-white bg-gradient-to-br from-[#0f172a] via-[#000c2c] to-[#2d3242]"
-    >
+  id="Home"
+  className="relative min-h-screen overflow-hidden flex flex-col md:flex-row items-center justify-center gap-12 px-6 md:px-20 pt-24 text-white 
+  bg-black md:bg-gradient-to-br md:from-[#0f172a] md:via-[#000c2c] md:to-[#2d3242]"
+>
       {/* Background Glow */}
       <div className="absolute w-[500px] h-[500px] bg-cyan-800/10 blur-[150px] rounded-full top-10 left-10"></div>
 
